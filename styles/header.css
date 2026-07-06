@@ -1,0 +1,82 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 80px auto;
+  max-width: 1000px;
+}
+
+.left-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.smarty-logo {
+  font-family: Poppins , Arial;
+  font-size: 28px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 20px;
+  margin-right: 30px;
+}
+
+.middle-section {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  align-items: center;
+  justify-content: right;
+  margin-right: 60px;
+}
+
+.navbar-item-container {
+  display: flex;
+  gap: 40px;
+}
+
+.link-item {
+  text-decoration: none;
+  font-family: Inter , Arial;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.link-item:hover {
+  opacity: 0.7;
+}
+
+.link-item:active {
+  opacity: 0.4;
+}
+
+.right-section {
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  margin-right: 20px;
+}
+
+.buy-now-button {
+  font-family: Inter , Arial;
+  background-color: transparent;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid white;
+  padding: 12px 18px;
+  border-radius: 30px;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.buy-now-button:hover {
+  opacity: 0.7;
+}
+
+.buy-now-button:active {
+  opacity: 0.4;
+}
