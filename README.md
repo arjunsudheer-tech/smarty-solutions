@@ -8,7 +8,7 @@ A modern business landing page built using **HTML5** and **CSS3**. This project 
 
 ## 🚀 Live Demo
 
-[[Add your live demo link here](#)](https://arjunsudheer-tech.github.io/smarty-solutions/)
+(https://arjunsudheer-tech.github.io/smarty-solutions/)
 
 ---
 
