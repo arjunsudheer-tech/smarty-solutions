@@ -12,11 +12,11 @@ A modern business landing page built using **HTML5** and **CSS3**. This project 
 
 ![Services Preview](services.png)
 
-### 📊 Benefits and Team
+### 📊 Benefits and 👥 Team
 
 ![Benefits Preview](benefits.png)
 
-### 👥 Team
+### 📰 Newsletter
 
 ![Newsletter Preview](newsletter.png)
 
