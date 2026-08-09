@@ -4,11 +4,27 @@ A modern business landing page built using **HTML5** and **CSS3**. This project 
 
 ## 📸 Preview
 
+### 🏠 Home
+
+![Home Preview](home.png)
+
+### 💼 Services
+
+![Services Preview](services.png)
+
+### 📊 Benefits and Team
+
+![Benefits Preview](benefits.png)
+
+### 👥 Team
+
+![Newsletter Preview](newsletter.png)
+
 ---
 
 ## 🚀 Live Demo
 
-(https://arjunsudheer-tech.github.io/smarty-solutions/)
+https://arjunsudheer-tech.github.io/smarty-solutions/
 
 ---
 
